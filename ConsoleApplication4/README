@@ -7,3 +7,5 @@ Multithreaded server-client model.
 *Server
 
   There are multiple server implementations each of them has different threading. One of them uses built-in ThreadPool class, one of them uses threads and handles availability for them and the last one is Implements ThreadPool class handles synchronization and availability. All of them have their advantages and disadvantages in terms of efficiency, simplicity, readability/writeability from case to case.
+
+PS. Server implementations are under ConsoleApplication4 Folder. Among with SQL Connection Class and config file
