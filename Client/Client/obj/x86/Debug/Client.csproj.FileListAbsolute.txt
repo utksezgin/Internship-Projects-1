@@ -1,0 +1,4 @@
+D:\BanksoftTraining\UtkuProje\Client\Client\bin\Debug\Client.exe
+D:\BanksoftTraining\UtkuProje\Client\Client\bin\Debug\Client.pdb
+D:\BanksoftTraining\UtkuProje\Client\Client\obj\x86\Debug\Client.exe
+D:\BanksoftTraining\UtkuProje\Client\Client\obj\x86\Debug\Client.pdb

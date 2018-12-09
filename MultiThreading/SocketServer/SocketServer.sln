@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SocketServer", "SocketServer\SocketServer.csproj", "{56A97C64-A21E-4350-A783-C2137D114626}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test", "Test\Test.csproj", "{CFCD7C41-6546-417B-9A17-84F6334D8028}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{56A97C64-A21E-4350-A783-C2137D114626}.Debug|x86.ActiveCfg = Debug|x86
+		{56A97C64-A21E-4350-A783-C2137D114626}.Debug|x86.Build.0 = Debug|x86
+		{56A97C64-A21E-4350-A783-C2137D114626}.Release|x86.ActiveCfg = Release|x86
+		{56A97C64-A21E-4350-A783-C2137D114626}.Release|x86.Build.0 = Release|x86
+		{CFCD7C41-6546-417B-9A17-84F6334D8028}.Debug|x86.ActiveCfg = Debug|x86
+		{CFCD7C41-6546-417B-9A17-84F6334D8028}.Debug|x86.Build.0 = Debug|x86
+		{CFCD7C41-6546-417B-9A17-84F6334D8028}.Release|x86.ActiveCfg = Release|x86
+		{CFCD7C41-6546-417B-9A17-84F6334D8028}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

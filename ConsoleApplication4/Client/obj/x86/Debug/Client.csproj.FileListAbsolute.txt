@@ -1,0 +1,6 @@
+D:\BanksoftTraining\UtkuProje\ConsoleApplication4\Client\bin\Debug\Client.exe
+D:\BanksoftTraining\UtkuProje\ConsoleApplication4\Client\bin\Debug\Client.pdb
+D:\BanksoftTraining\UtkuProje\ConsoleApplication4\Client\obj\x86\Debug\Client.exe
+D:\BanksoftTraining\UtkuProje\ConsoleApplication4\Client\obj\x86\Debug\Client.pdb
+D:\BanksoftTraining\UtkuProje\ConsoleApplication4\Client\obj\x86\Debug\Client.csprojResolveAssemblyReference.cache
+D:\BanksoftTraining\UtkuProje\ConsoleApplication4\Client\bin\Debug\Client.exe.config

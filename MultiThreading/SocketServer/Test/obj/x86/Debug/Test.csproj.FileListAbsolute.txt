@@ -1,0 +1,8 @@
+D:\Mutlu\Visual Studio 2010\Projects\SocketServer\Test\bin\Debug\Test.exe
+D:\Mutlu\Visual Studio 2010\Projects\SocketServer\Test\bin\Debug\Test.pdb
+D:\Mutlu\Visual Studio 2010\Projects\SocketServer\Test\obj\x86\Debug\Test.exe
+D:\Mutlu\Visual Studio 2010\Projects\SocketServer\Test\obj\x86\Debug\Test.pdb
+D:\MultiThreading\SocketServer\Test\obj\x86\Debug\Test.exe
+D:\MultiThreading\SocketServer\Test\bin\Debug\Test.exe
+D:\MultiThreading\SocketServer\Test\bin\Debug\Test.pdb
+D:\MultiThreading\SocketServer\Test\obj\x86\Debug\Test.pdb
