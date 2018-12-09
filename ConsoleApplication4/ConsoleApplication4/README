@@ -1,1 +1,14 @@
-Change Server class from Program.cs to change server implementation.
+SQLTest -> Has 2 functions for getting data from SQL Table and updating the SQL Table.
+
+Server -> Implementation of threadPoolTestFunction that the threads use on server implementations.
+
+ServerThreadPool -> Utilizes ThreadPool class of C#. Useful when thread count is known/limited.
+
+ManualThreadPool -> Works same as ServerThreadPool but also implemented the ThreadPool class and handled synchronization with AutoResetEvents. SQLConnection is added to this implementation os that the connection will be established from the start of the program instead of connectiong to SQL Server everytime a thread is created.
+
+ServerMultiThreads -> Creates a new thread for every request. It is useful for cases where thread count is unknown/unlimited.
+
+
+
+
+PS. Change Server class from Program.cs to change server implementation.
