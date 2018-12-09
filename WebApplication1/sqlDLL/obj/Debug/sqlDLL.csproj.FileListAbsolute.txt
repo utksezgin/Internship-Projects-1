@@ -1,0 +1,4 @@
+D:\BanksoftTraining\UtkuProje\WebApplication1\sqlDLL\bin\Debug\sqlDLL.dll
+D:\BanksoftTraining\UtkuProje\WebApplication1\sqlDLL\bin\Debug\sqlDLL.pdb
+D:\BanksoftTraining\UtkuProje\WebApplication1\sqlDLL\obj\Debug\sqlDLL.dll
+D:\BanksoftTraining\UtkuProje\WebApplication1\sqlDLL\obj\Debug\sqlDLL.pdb

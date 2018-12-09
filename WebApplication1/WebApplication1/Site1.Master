@@ -1,0 +1,39 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site1.master.cs" Inherits="WebApplication1.Site1" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <link rel="stylesheet" href="~/masterCSS.css" type="text/css" runat="server" />
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+
+    <form id="form1" runat="server">
+
+<div id="Nav">
+    <ul>
+        <li>
+            <asp:LinkButton ID="btnAnaSayfa" runat="server" onclick="btnAnaSayfa_Click">Ana Sayfa</asp:LinkButton>
+        </li>
+        <li>
+            <asp:LinkButton ID="btnGiris" runat="server" onclick="btnGiris_Click">Giriş</asp:LinkButton>
+        </li>
+        <li>
+            <asp:LinkButton ID="btnUyeGirisi" runat="server" onclick="btnUyeGirisi_Click">Üye Girişi</asp:LinkButton>
+        </li>
+        <li>
+            <asp:LinkButton ID="btnCikis" runat="server" onclick="btnCikis_Click">Çıkış</asp:LinkButton>
+        </li>
+    </ul> 
+
+</div>
+
+<div id="formContent">
+    <asp:ContentPlaceHolder ID="GirisForm" runat="server" /> 
+</div>
+    </form>
+</body>
+</html>

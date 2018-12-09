@@ -1,0 +1,5 @@
+D:\BanksoftTraining\UtkuProje\WindowsFormsApplication2\TestDLL\bin\Debug\TestDLL.dll
+D:\BanksoftTraining\UtkuProje\WindowsFormsApplication2\TestDLL\bin\Debug\TestDLL.pdb
+D:\BanksoftTraining\UtkuProje\WindowsFormsApplication2\TestDLL\obj\Debug\TestDLL.dll
+D:\BanksoftTraining\UtkuProje\WindowsFormsApplication2\TestDLL\obj\Debug\TestDLL.pdb
+D:\BanksoftTraining\UtkuProje\WindowsFormsApplication2\TestDLL\obj\Debug\TestDLL.csprojResolveAssemblyReference.cache

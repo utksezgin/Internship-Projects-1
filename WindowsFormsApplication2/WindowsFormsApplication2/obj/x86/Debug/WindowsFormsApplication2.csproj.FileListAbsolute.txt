@@ -1,0 +1,11 @@
+D:\BanksoftTraining\UtkuProje\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+D:\BanksoftTraining\UtkuProje\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+D:\BanksoftTraining\UtkuProje\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.frmTest.resources
+D:\BanksoftTraining\UtkuProje\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Properties.Resources.resources
+D:\BanksoftTraining\UtkuProje\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+D:\BanksoftTraining\UtkuProje\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.exe
+D:\BanksoftTraining\UtkuProje\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.pdb
+D:\BanksoftTraining\UtkuProje\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+D:\BanksoftTraining\UtkuProje\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+D:\BanksoftTraining\UtkuProje\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\TestDLL.dll
+D:\BanksoftTraining\UtkuProje\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\TestDLL.pdb

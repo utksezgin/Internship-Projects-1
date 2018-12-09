@@ -1,0 +1,7 @@
+D:\BanksoftTraining\UtkuProje\WebApplication1\WebApplication1\bin\WebApplication1.dll
+D:\BanksoftTraining\UtkuProje\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+D:\BanksoftTraining\UtkuProje\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+D:\BanksoftTraining\UtkuProje\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+D:\BanksoftTraining\UtkuProje\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+D:\BanksoftTraining\UtkuProje\WebApplication1\WebApplication1\bin\TestDLL.dll
+D:\BanksoftTraining\UtkuProje\WebApplication1\WebApplication1\bin\TestDLL.pdb
