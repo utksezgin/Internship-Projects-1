@@ -1,0 +1,6 @@
+D:\BanksoftTraining\UtkuProje\wcfService\wcfService\bin\Debug\wcfService.dll.config
+D:\BanksoftTraining\UtkuProje\wcfService\wcfService\bin\Debug\wcfService.dll
+D:\BanksoftTraining\UtkuProje\wcfService\wcfService\bin\Debug\wcfService.pdb
+D:\BanksoftTraining\UtkuProje\wcfService\wcfService\obj\Debug\wcfService.dll
+D:\BanksoftTraining\UtkuProje\wcfService\wcfService\obj\Debug\wcfService.pdb
+D:\BanksoftTraining\UtkuProje\wcfService\wcfService\obj\Debug\wcfService.csprojResolveAssemblyReference.cache

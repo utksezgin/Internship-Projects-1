@@ -1,0 +1,8 @@
+D:\BanksoftTraining\UtkuProje\sqlCS\sqlCS\obj\x86\Debug\sqlCS.Form1.resources
+D:\BanksoftTraining\UtkuProje\sqlCS\sqlCS\obj\x86\Debug\sqlCS.Properties.Resources.resources
+D:\BanksoftTraining\UtkuProje\sqlCS\sqlCS\obj\x86\Debug\sqlCS.csproj.GenerateResource.Cache
+D:\BanksoftTraining\UtkuProje\sqlCS\sqlCS\bin\Debug\sqlCS.exe
+D:\BanksoftTraining\UtkuProje\sqlCS\sqlCS\bin\Debug\sqlCS.pdb
+D:\BanksoftTraining\UtkuProje\sqlCS\sqlCS\obj\x86\Debug\sqlCS.exe
+D:\BanksoftTraining\UtkuProje\sqlCS\sqlCS\obj\x86\Debug\sqlCS.pdb
+D:\BanksoftTraining\UtkuProje\sqlCS\sqlCS\obj\x86\Debug\sqlCS.csprojResolveAssemblyReference.cache

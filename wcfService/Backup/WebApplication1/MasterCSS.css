@@ -1,0 +1,29 @@
+﻿body
+{
+    background-color: rgb(150, 150, 150);
+}
+
+ul
+{
+    list-style-type: none;
+}
+li
+{
+    margin-top: 10px;
+}
+#Nav 
+{
+    background-color: rgb(210, 210, 210);
+    float: left;
+    width: 150px;
+    height: 400px;
+}
+
+
+#formContent
+{
+    width: 850px;
+    height: 400px;
+    margin-left: 200px;
+    background-color: rgb(150, 150, 150);
+}
