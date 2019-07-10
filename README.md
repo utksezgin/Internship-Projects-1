@@ -1,7 +1,7 @@
 # Internship-Projects-1
 The projects i did on my first internship
 
-Microsoft Visual Studio 2013 -  C# / .NET / SQL
+Microsoft Visual Studio 2013 -  C# / .NET / SQL Database
 
 Multithreaded server-client model.
 
